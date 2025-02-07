@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Ktema Wiki"
-  text: "Documentation for Ktema Life, property management system."
-  tagline: My great project tagline
+  name: "KtemaWiki"
+  text: "Documentation for KtemaLife"
+  tagline: "Your all-in-one property management system."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started as a Property Manager
+      link: /property-manager/getting-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started as a Contractor
+      link: /property-manager/contractor
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Properties
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Work Orders
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Parking Lots
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
